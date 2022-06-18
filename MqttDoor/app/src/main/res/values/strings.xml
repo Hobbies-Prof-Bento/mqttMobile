@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MqttDoor</string>
+    <string name="verificar_estado_da_porta">Verificar Estado da Porta</string>
+</resources>
